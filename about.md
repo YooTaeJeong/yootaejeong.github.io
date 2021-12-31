@@ -20,7 +20,7 @@ hide_description: true
 ## Personal Data
 ---
 > 1991, 대한민국, 경기도 > 연락처: sooy9574@naver.com
-> Github : [https://github.com/doozzuri](https://github.com/doozzuri) 
+> Github : [https://github.com/doozzuri](https://github.com/doozzuri){:target="_blank"}
 ## Education
 ---
 > Mar.2015 ~ Feb.2010 한국산업기술대학교
