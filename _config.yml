@@ -31,7 +31,7 @@ description:           >
 tagline:               GitBlog
 
 # A list of keywords for your blog
-keywords:              [AI, git, gitblog]
+keywords:              [git, gitblog]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,12 +48,19 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Project
+    url:               /project/
+  - title:             Study
+    url:               /study/
+  - title:             Blog
+    url:               /blog/
+    submenu:
+      - title:        JavaScript
+        url:          /js/
+      - title:        Html
+        url:          /html/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -79,8 +86,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
