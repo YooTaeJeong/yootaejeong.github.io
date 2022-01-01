@@ -203,3 +203,11 @@ pre > code {
 .submenu.menu-wrapper.hide{
   display: none;
 }
+
+a::after {
+  display: none !important;
+}
+
+a:external::after, a::after {
+  display: none;
+}
