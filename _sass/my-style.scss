@@ -111,10 +111,95 @@ pre > code {
     border-radius: 3px;
   }
 
-under {
+  under {
     text-decoration: underline;
     text-decoration-color: red !important;
     text-underline-position:under;
     padding-bottom : 2px;
   }
+}
+
+.page-control {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-control > div {
+  max-width: 50%;
+}.page-control {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.page-control > div {
+  max-width: 50%;
+}
+
+.button {
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+  background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+  border-radius:5px;
+  display:inline-block;
+  cursor:pointer;
+  color:#666666;
+  font-family:Arial;
+  font-size:14px;
+  font-weight:bold;
+  padding:6px 5px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #ffffff;
+}
+
+.button:hover {
+  background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+  background-color:#f6f6f6;
+}
+
+.button:active {
+  position:relative;
+  top:1px;
+}
+
+.lead {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+}
+
+// 메뉴
+.spread-btn{
+  right: 15%;
+  position: absolute;
+  padding: 0;
+  padding-top: 2px;
+  border: none;
+  background: none;
+  color: white;
+  cursor: pointer;
+  z-index: 1;
+}
+.menu-wrapper {
+  text-align: left;
+  margin-left: 30%;
+}
+.submenu.menu-wrapper{
+  right: 10%;
+  position: absolute;
+  background-color: rgb(34,31,32);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
+  width: 10rem;
+  z-index: 2;
+  ul{
+    margin: 0;
+    padding: 0 1.25rem;
+  }
+}
+.submenu.menu-wrapper.hide{
+  display: none;
 }
