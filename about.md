@@ -9,48 +9,38 @@ hide_description: true
 
 # About
 <!--author-->
-***
-<center>
-<span style="font-size:170%;font-weight:bold"> 김수연
-</span>
-</center>
-<center>Web Developer</center>
-<center></center>
 
 ## Personal Data
 ---
-> 1991, 대한민국, 경기도 > 연락처: sooy9574@naver.com
+> 1991, 대한민국, 경기도 
+>
+> 연락처: sooy9574@naver.com
+>
+> Blog : [https://doozzuri.tistory.com](https://doozzuri.tistory.com){:target="_blank"}
+>
 > Github : [https://github.com/doozzuri](https://github.com/doozzuri){:target="_blank"}
+
 ## Education
 ---
-> Mar.2015 ~ Feb.2010 한국산업기술대학교
->
-> 전자공학부
-## Research Interest
- 
----
-* Computer Vision
-+ image Object Detection
-+ Vot
-+ Semantic/Instance Segmentation + Super Resolution
-* Machine Learning / Deep Learning + GAN
-    + Few-Shot Learning
-    + Meta Learning## Project
----
-* **Visual Object Tracking Using Plenoptic Image Sequences** * **FPV Swlf-driving RC Car**
-* **Anti Drone AI Robot using object detection**
-* **AI Mashroom Classificator App**
-## Awards
----
-[***2020 년 공개 SW 개발자 대회(주최:과학기술정보통신부, 주관:정보통신산업진흥원)[PM] 2020***](https://www.youtube.com/watch?v=ah9MZQ0PjMI&t=60s)
-- [BRONZE PRIZE](https://blog.naver.com/khw11044/222152408161)</a>
+> 2015.03 ~ 2010.02 한국산업기술대학교/전자공학부
+
 ## Work Experiences
 ---
--2020. 07 – 2020. 11
-Visual Object Tracking Using Plenoptic Image Sequences, Hansung Univ – ETRI[https://github.com/khw11044/PlenOpticVot_Siamfc_2020](https://github.com/khw1 1044/PlenOpticVot_Siamfc_2020)
-## Skills and Certification
----
--Language : Python, C/C++
--FrameWork: Pytorch, Tensorflow(Keras)
--Certification : CCNA, Internet of Things Knowledge Certification
-```
+* 2019.09 – 2021.08 과학기술인공제회
+> 2019.11 ~ 2021.08 SEMA 홈페이지 신규 개발 및 유지보수
+>
+> 2009.09 ~ 2019.11 SEMA 홈페이지 신규 적금 상품 개발
+
+* 2017.06 – 2019.07 (주)엔데이터
+> 2019.06 ~ 2019.07 [KT] 텍스트 데이터 분석 플랫폼 PRISM 소셜레포트 고도화 개발 (JS, Oracle)
+>
+> 2018.12 ~ 2019.05 [현대자동차] 빅데이터 소셜분석 플랫폼 구축 (Vue.js, PostgreSQL)
+>
+> 2018.01 ~ 2018.05 [농협은행] Text Analytics 관리 시스템 구축 (JS, MySQL)
+>
+> 2018.08 ~ 2018.11 [현대로보틱스] A/S 장애 조치 가이드 시스템 구축 (AndroidStudio)
+>
+> 2018.01 ~ 2018.12 [20세기폭스] 영화 소셜 분석을 위한 크롤링 (Java, PostgreSQL)
+>
+> 2017.06 ~ 2017.12 [한우114] 웹사이트 운영관리 및 사이트 리뉴얼(php, MySQL)
+
