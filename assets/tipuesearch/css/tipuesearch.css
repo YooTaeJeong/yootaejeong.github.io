@@ -69,6 +69,30 @@ http://www.tipue.com/search
 }
 
 
+
+@media (max-width: 780px){
+     .tipue_search_icon {
+          width: 24px;
+          height: 24px;
+          margin-top: 20px;
+      }
+     #tipue_search_input {
+          color: #333;
+          max-width: 170px;
+          max-height: 20px;
+          padding: 15px;
+          border: 2px solid #e3e3e3;
+          border-radius: 0;
+          -moz-appearance: none;
+          -webkit-appearance: none;
+          box-shadow: none;
+          outline: 0;
+          margin-bottom: 20px;
+          text-align: center;
+          margin-left: 30px;
+      }
+}
+
 /* search results */
 
 
