@@ -12,22 +12,22 @@ hide_description: true
 
 ## Personal Data
 ---
-> 1991, 대한민국, 경기도 
+> 1998, Republic Of Korea, Suncheon
 >
-> 연락처: sooy9574@naver.com
+> E-mail: dbxowjd1396@gmail.com
 >
-> Blog : [https://doozzuri.tistory.com](https://doozzuri.tistory.com){:target="_blank"}
+> Blog : [https://bong9s.tistory.com](https://bong9s.tistory.com){:target="_blank"}
 >
-> Github : [https://github.com/doozzuri](https://github.com/doozzuri){:target="_blank"}
+> Github : [https://github.com/yootaejeong](https://github.com/yootaejeong){:target="_blank"}
 
 ## Education
 ---
-> 2015.03 ~ 2010.02 한국산업기술대학교/전자공학부
+> March.2017 – Feb.2023 Dongseo University, Busan, South Korea
 
 ## Work Experiences
 ---
-* 2019.09 – 2021.08 과학기술인공제회
-> 2019.11 ~ 2021.08 SEMA 홈페이지 신규 개발 및 유지보수
+* May.2022 - Dec.2022  Mentoring Activities in LG Discovery Lab
+> Apr.2022 - Jul.2022  SEMA Mentoring Activities in Baejeong High school
 >
 > 2009.09 ~ 2019.11 SEMA 홈페이지 신규 적금 상품 개발
 
