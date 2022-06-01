@@ -36,13 +36,15 @@ hide_description: true
 ## College Experiences
 
 * Coding Mentoring
+
 > May.2022 - Dec.2022  Mentoring Activities in LG Discovery Lab
 
 > Apr.2022 - Jul.2022  Mentoring Activities in Baejeong High school
 
-> May.2022 - Aug.2022  Mentoring Activities in Genius school.
+> May.2022 - Aug.2022  Mentoring Activities in Genius school
 
 * Scholarship student in Dongseo University
+
 > Mar.2021 - Jun.2022 Scholarship student(Material management) in Dongseo University
 
 > Mar.2021 - Dec.2021 Scholarship student(LINC+) in Dongseo University
