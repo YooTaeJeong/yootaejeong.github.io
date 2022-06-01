@@ -34,27 +34,20 @@ hide_description: true
 # Experiences
 ---
 ## College Experiences
+
 * Coding Mentoring
 > May.2022 - Dec.2022  Mentoring Activities in LG Discovery Lab
-
 > Apr.2022 - Jul.2022  Mentoring Activities in Baejeong High school
-
 > May.2022 - Aug.2022  Mentoring Activities in Genius school.
 
 * Scholarship student in Dongseo University
 > Mar.2021 - Jun.2022 Scholarship student(Material management) in Dongseo University
-
 > Mar.2021 - Dec.2021 Scholarship student(LINC+) in Dongseo University
-
 > Sep.2020 - Dec.2020 Scholarship student(International College) in Dongseo University
-
 > Mar.2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
 
 ## Work Experiecnces
 > Aug.2021 - Nov.2021 Labeling Worker in IREMTECH company
->
 > Jun.2021 - Jul.2021 Field practice in UBSYS
-
 > Sep.2019 - Mar.2020 Part-time in Thunder Chicken Restaurant
-
 > Mar.2017 - June.2017 Part-time in Abiko Curry Restaurant
