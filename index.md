@@ -12,14 +12,14 @@ hide_description: false
 
 <br>
 
-## 소개
+## Introduction
 ---
-5년차 웹개발자 김수연 입니다.💻  
+ Hello, I'm Taejeong Yoo. I'm a student in Dongseo University. My major is Computer Engineering and Duuble major is AI Engineering. 💻
 
- 💡__개발 [티스토리](https://doozzuri.tistory.com/){:target="_blank"}를 운영하고 있습니다.__ 💡
+ 💡__Develop Blog [Tistory](https://bong9s.tistory.com/){:target="_blank"} Manage.__ 💡
 
 
 
-저에게 조금 관심이 생기셨다면 [CV](https://bit.ly/3nl96b8){:target="_blank"}를 확인해주시면 감사하겠습니다! 😃
+If you want to know me more then,  [CV](https://bit.ly/3nl96b8){:target="_blank"} Click this Link please. Thank you.😃
 
 ---
