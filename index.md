@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-  개발이 즐거운 개발자 김수연입니다.
+  Thanks for visiting Taejeong's PortFolio.
 hide_description: false
 ---
 
@@ -20,6 +20,6 @@ hide_description: false
 
 
 
-If you want to know me more then,  [CV](https://bit.ly/3nl96b8){:target="_blank"} Click this Link please. Thank you.😃
+If you want to know me more then,  [CV](https://bit.ly/3aAcqN5){:target="_blank"} Click this Link please. Thank you.😃
 
 ---
