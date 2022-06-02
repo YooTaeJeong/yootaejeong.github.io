@@ -20,6 +20,6 @@ hide_description: false
 
 
 
-If you want to know me more then,  [CV](https://bit.ly/3aAcqN5){:target="_blank"} Click this Link please. Thank you.😃
+If you want to know me more then,  [CV](https://bit.ly/3Nfl0PC){:target="_blank"} Click this Link please. Thank you.😃
 
 ---
