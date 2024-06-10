@@ -52,10 +52,12 @@ menu:
     url:               /about/
   - title:             Posts
     url:               /posts/
-  - title:             Study
-    url:               /study/
-  - title:             Blog
-    url:               /blog/
+  - title:             Awards
+    url:               /awards/
+  - title:             Projects
+    url:               /projects/
+    - title:           Certificates
+    url:               /certificates/
 #    submenu:
 #      - title:        JavaScript
 #        url:          /js/
