@@ -14,7 +14,8 @@ hide_description: false
 
 ## Introduction
 ---
- Hello, I'm Taejeong Yoo. I'm a student in Dongseo University. My major is Computer Engineering and Duuble major is AI Engineering. 💻
+
+Hello, I'm Taejeong Yoo. I graduated from Dongseo University with a major in Applied AI Engineering, formerly known as Information and Communication Engineering. Through various internal and external activities, I honed my leadership skills and learned the importance of collaboration, enabling me to cultivate the power of teamwork. 💻
 
  💡__Develop Blog [Tistory](https://bong9s.tistory.com/){:target="_blank"} Manage.__ 💡
 

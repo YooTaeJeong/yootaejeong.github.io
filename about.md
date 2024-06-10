@@ -54,6 +54,8 @@ hide_description: true
 > Mar.2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
 
 ## Work Experiecnces
+> Jan.2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
+
 > Aug.2021 - Nov.2021 Labeling Worker in IREMTECH company
 
 > Jun.2021 - Jul.2021 Field practice in UBSYS

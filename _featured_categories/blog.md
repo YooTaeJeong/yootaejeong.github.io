@@ -5,5 +5,5 @@ slug: blog
 menu: true
 submenu : true
 description: >
-  개발블로그
+  TJ's Portfolio
 ---
