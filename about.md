@@ -26,7 +26,7 @@ hide_description: true
 ---
 > Mar.2017 – Feb.2023 Bachelor’s Degree in Computer Engineering Dongseo University, Busan, South Korea
 
-> Mar.2021 – Feb.2023 n	Double Major in Artificial Intelligence Engineering Dongseo University, Busan, South Korea
+> Mar.2021 – Feb.2023 Double Major in Artificial Intelligence Engineering Dongseo University, Busan, South Korea
 
 ## Relevant Courses
 ---
