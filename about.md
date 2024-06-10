@@ -19,6 +19,8 @@ hide_description: true
 > Blog : [https://bong9s.tistory.com](https://bong9s.tistory.com){:target="_blank"}
 >
 > Github : [https://github.com/yootaejeong](https://github.com/yootaejeong){:target="_blank"}
+>
+> Linked In : [https://www.linkedin.com/in/taejeong-yoo-0706602a6/](https://www.linkedin.com/in/taejeong-yoo-0706602a6/){:target="_blank"}
 
 ## Education
 ---
