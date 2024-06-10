@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    - Achieving to signification.
-    - Qualified knowledge in Software Developer sector
-    - Become a person who can help others and be well-known person in the world.
+    - A person who gives their best to any task
+    - A person with leadership and a spirit of challenge
+    - A person who values cooperation
 
   #- Please check my [CV](https://bit.ly/3nl96b8){:target="_blank"}
 
@@ -39,7 +39,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       tang2__25
+    instagram:       tang2.25
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
