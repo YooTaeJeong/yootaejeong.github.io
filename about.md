@@ -55,7 +55,10 @@ hide_description: true
 
 > Mar.2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
 
-## Work Experiecnces
+## Work Experience
+
+> June.2024 - Present Technical Service Division Staff in Morgan Stanley Securities (Dispatch Labor), Seoul, Republic Of KOREA
+
 > Jan.2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
 
 > Aug.2021 - Nov.2021 Labeling Worker in IREMTECH company
