@@ -57,18 +57,18 @@ hide_description: true
 
 ## Work Experience
 
-> June.2024 - Present Technical Service Division Staff in Morgan Stanley Securities (Outsoursed Job), Seoul, KOREA
+> June. 2024 - Present Technical Service Division Staff in Morgan Stanley (Outsoursed Job), Seoul, KOREA
 
-> Jan.2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
+> Jan. 2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
 
-> Aug.2021 - Nov.2021 Labeling Worker in IREMTECH company. Busan, KOREA
+> Aug. 2021 - Nov.2021 Labeling Worker in IREMTECH company. Busan, KOREA
 
-> Jun.2021 - Jul.2021 Field practice in UBSYS. Busan, KOREA
+> Jun. 2021 - Jul.2021 Field practice in UBSYS. Busan, KOREA
 
-> Sep.2019 - Mar.2020 Part-time in Thunder Chicken Restaurant Busan, KOREA
+> Sep. 2019 - Mar.2020 Part-time in Thunder Chicken Restaurant Busan, KOREA
 
-> Mar.2017 - June.2017 Part-time in Abiko Curry Restaurant Busan, KOREA
+> Mar. 2017 - June.2017 Part-time in Abiko Curry Restaurant Busan, KOREA
 
 ## Military Service
 
-> October.2017 - September. 2019 Air Force Saff Sergeant Completion of M/S. KOREA
+> October. 2017 - September. 2019 Air Force Saff Sergeant Completion of M/S. KOREA
