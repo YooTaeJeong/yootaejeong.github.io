@@ -57,7 +57,7 @@ hide_description: true
 
 ## Work Experience
 
-> June.2024 - Present Technical Service Division Staff in Morgan Stanley Securities (Dispatch Labor), Seoul, KOREA
+> June.2024 - Present Technical Service Division Staff in Morgan Stanley Securities (Outsoursed Job), Seoul, KOREA
 
 > Jan.2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
 
