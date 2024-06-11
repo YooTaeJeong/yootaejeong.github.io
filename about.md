@@ -24,9 +24,9 @@ hide_description: true
 
 ## Education
 ---
-> Mar.2017 – Feb.2023 Bachelor’s Degree in Computer Engineering Dongseo University, Busan, South Korea
+> Mar. 2017 – Feb. 2023 Bachelor’s Degree in Computer Engineering Dongseo University, Busan, South Korea
 
-> Mar.2021 – Feb.2023 Double Major in Artificial Intelligence Engineering Dongseo University, Busan, South Korea
+> Mar. 2021 – Feb. 2023 Double Major in Artificial Intelligence Engineering Dongseo University, Busan, South Korea
 
 ## Relevant Courses
 ---
@@ -39,21 +39,21 @@ hide_description: true
 
 ### Coding Mentoring
 
-> May.2022 - Dec.2022  Mentoring Activities in LG Discovery Lab
+> May. 2022 - Dec. 2022  Mentoring Activities in LG Discovery Lab
 
-> Apr.2022 - Jul.2022  Mentoring Activities in Baejeong High school
+> Apr. 2022 - Jul. 2022  Mentoring Activities in Baejeong High school
 
-> May.2022 - Aug.2022  Mentoring Activities in Genius school
+> May. 2022 - Aug. 2022  Mentoring Activities in Genius school
 
 ### Scholarship student in Dongseo University
 
-> Mar.2021 - Jun.2022 Scholarship student(Material management) in Dongseo University
+> Mar. 2021 - Jun. 2022 Scholarship student(Material management) in Dongseo University
 
-> Mar.2021 - Dec.2021 Scholarship student(LINC+) in Dongseo University
+> Mar. 2021 - Dec. 2021 Scholarship student(LINC+) in Dongseo University
 
-> Sep.2020 - Dec.2020 Scholarship student(International College) in Dongseo University
+> Sep. 2020 - Dec. 2020 Scholarship student(International College) in Dongseo University
 
-> Mar.2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
+> Mar. 2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
 
 ## Work Experience
 
