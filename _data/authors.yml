@@ -29,7 +29,6 @@ author1:
     #twitter:         <username>
     github:          yootaejeong
     email:           dbxowjd1396@gmail.com
-    rss:             https://yootaejeong.github.io
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
@@ -40,33 +39,8 @@ author1:
     # soundcloud:      <username>
     # lastfm:          <username>
     instagram:       tang2.28
-    # flickr:          <string@string>
-    # 500px:           <username>
-    # dribbble:        <username>
-    # behance:         <username>
-    # deviantart:      <username>
-    # ello:            <username>
-    # twitch:          <username>
-    # steam:           <number>
-    # reddit:          <username>
-    # tumblr:          <username>
-    # pinterest:       <username>
-    # foursquare:      <number>
-    # yelp:            <string>
-    # stackoverflow:   <number/username>
-    # npm:             <username>
-    # hackernews:      <username>
-    # trello:          <firstnamelastname>
     linkedin:        taejeong-yoo-0706602a6
-    # xing:            <firstname_lastname_counter>
-    # blogger:         <number>
-    # delicious:       <username>
-    # stumbleupon:     <username>
-    # paypal:          <username>
-    # download:        <url>
-    # keybase          <username>
 
-# Another author (optional)
 author2:
   name:              <firtname> <lastname>
   email:             <mail@domain.tld>
