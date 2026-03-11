@@ -1,12 +1,11 @@
 ---
-layout: VolunteerWorks
-title: VolunteerWorks
-description: >
-    Various Project Make
+layout: post
+title: 2025 Love Briquette Sharing Volunteer Activity
+description: Volunteer activity supporting climate-vulnerable households
 sitemap: false
 hide_last_modified: false
 categories:
-  - Volunteer Works
+  - volunteerworks
 ---
 
 # [Volunteer Works] 2025 Love Briquette Sharing Volunteer Activity for Climate-Vulnerable Households
