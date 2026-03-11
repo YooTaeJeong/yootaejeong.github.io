@@ -2,73 +2,58 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  IT Engineer specializing in Workplace Technology and Infrastructure.
 hide_description: true
 ---
 
 # About
-<!--author-->
 
 ## Personal Data
 ---
-> 1998, Republic Of Korea, Suncheon
->
-> E-mail: dbxowjd1396@gmail.com
->
-> Blog : [https://bong9s.tistory.com](https://bong9s.tistory.com){:target="_blank"}
->
-> Github : [https://github.com/yootaejeong](https://github.com/yootaejeong){:target="_blank"}
->
-> Linked In : [https://www.linkedin.com/in/taejeong-yoo-0706602a6/](https://www.linkedin.com/in/taejeong-yoo-0706602a6/){:target="_blank"}
+- **Born:** 1998, Suncheon, Republic of Korea  
+- **Email:** dbxowjd1396@gmail.com  
+- **Blog:** [bong9s.tistory.com](https://bong9s.tistory.com){:target="_blank"}  
+- **Github:** [github.com/yootaejeong](https://github.com/yootaejeong){:target="_blank"}
 
 ## Education
 ---
-> Mar. 2017 – Feb. 2023 Bachelor’s Degree in Computer Engineering Dongseo University, Busan, South Korea
-
-> Mar. 2021 – Feb. 2023 Double Major in Artificial Intelligence Engineering.
+**Dongseo University**, Busan, South Korea  
+- **B.S. Computer Engineering** — Mar 2017 – Feb 2023  
+- **Double Major: Artificial Intelligence Engineering** — Mar 2021 – Feb 2023  
 
 ## Relevant Courses
 ---
-> Introduction to Computer Engineering, Advanced Programming, Software Development Practice 1, Circuit Theory, Electrical and Electronics Engineering, Software Development Practice 2, Data Structure and Algorithm, Wide-Area Network Design, Introduction to Linux and Practice, Computer Architecture, Software Development Practice 3, Software Studio, Micro Processor, Linear Algebra, Advanced Databases Machine Learning, AI System Design, Introduction to automata, Pattern Recognition, Neural Network Theory
+Computer Architecture, Data Structures & Algorithms, Advanced Programming,  
+Linux Systems, Wide-Area Network Design, Microprocessor,  
+Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 
-
-# Experiences
+## Mentoring
 ---
-## College Experiences
+- **LG Discovery Lab** — Coding Mentor (May 2022 – Dec 2022)  
+- **Baejeong High School** — Coding Mentor (Apr 2022 – Jul 2022)  
+- **Genius School** — Coding Mentor (May 2022 – Aug 2022)
 
-### Coding Mentoring
-
-> May. 2022 - Dec. 2022  Mentoring Activities in LG Discovery Lab
-
-> Apr. 2022 - Jul. 2022  Mentoring Activities in Baejeong High school
-
-> May. 2022 - Aug. 2022  Mentoring Activities in Genius school
-
-### Scholarship student in Dongseo University
-
-> Mar. 2021 - Jun. 2022 Scholarship student(Material management) in Dongseo University
-
-> Mar. 2021 - Dec. 2021 Scholarship student(LINC+) in Dongseo University
-
-> Sep. 2020 - Dec. 2020 Scholarship student(International College) in Dongseo University
-
-> Mar. 2020 - Dec.2020 Scholarship student(LINC+) in Dongseo University
+## Scholarships
+---
+- Dongseo University Scholarship (Material Management) — Mar 2021 – Jun 2022  
+- Dongseo University Scholarship (LINC+) — Mar 2021 – Dec 2021  
+- Dongseo University Scholarship (International College) — Sep 2020 – Dec 2020  
+- Dongseo University Scholarship (LINC+) — Mar 2020 – Dec 2020  
 
 ## Work Experience
+---
+**Morgan Stanley & Morgan Stanley Bank**, Seoul, Korea  
+*Workforce Technology Systems (WTS) – Outsourced via Gounet*  
+Jun 2024 – Present
 
-> June. 2024 - Present Technical Service Division Staff in Morgan Stanley (Outsoursed Job), Seoul, KOREA
+**H-Mart Logistics**, California, USA  
+*IT Helpdesk Intern*  
+Jan 2023 – Jan 2024
 
-> Jan. 2023 - Jan.2024 IT Helpdesk Intern in H-Mart Logistics. Califonia, USA
+**IREMTECH**, Busan, Korea  
+*Data Labeling Worker*  
+Aug 2021 – Nov 2021
 
-> Aug. 2021 - Nov.2021 Labeling Worker in IREMTECH company. Busan, KOREA
-
-> Jun. 2021 - Jul.2021 Field practice in UBSYS. Busan, KOREA
-
-> Sep. 2019 - Mar.2020 Part-time in Thunder Chicken Restaurant Busan, KOREA
-
-> Mar. 2017 - June.2017 Part-time in Abiko Curry Restaurant Busan, KOREA
-
-## Military Service
-
-> October. 2017 - September. 2019 Air Force Saff Sergeant Completion of M/S. KOREA
+**UBSYS**, Busan, Korea  
+*Field Practice Intern*  
+Jun 2021 – Jul 2021
