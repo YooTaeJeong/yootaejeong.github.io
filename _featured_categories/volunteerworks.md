@@ -1,6 +1,5 @@
 ---
-layout: volunteerworks
-title: volunteerworks
+layout: list
+title: Volunteer Works
 slug: volunteerworks
-description: volunteer activities
 ---
