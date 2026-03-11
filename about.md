@@ -43,7 +43,7 @@ Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 ## Work Experience
 ---
 **Morgan Stanley & Morgan Stanley Bank**, Seoul, Korea  
-*Workforce Technology Systems (WTS) – Outsourced via Gounet*  
+*Workforce Technology Services (WTS) – Outsourced via Gounet*  
 Jun 2024 – Present
 
 **H-Mart Logistics**, California, USA  
