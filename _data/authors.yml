@@ -2,41 +2,21 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Taejeong Yoo
-  email:             dbxowjd1396@gmail.com
-
-  # Used at the bottom of each page and at the top of the `about` layout
-  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-  - IT Engineer based in Seoul, Korea.
-  - Currently working in Workforce Technology Systems (WTS) supporting
-  - Morgan Stanley & Morgan Stanley Bank.
-  - I focus on workplace technology, end-user computing, and IT infrastructure operations.
+  name: Taejeong Yoo
+  email: dbxowjd1396@gmail.com
+  about: IT Infrastructure Engineer
 
 
   picture:
-    path:            /assets/img/me/me.jpg
-    # srcset is optional, but can be used to provide higher res versions for retina displays
+    path: /assets/img/me/me.jpg
+    
     srcset:
-      1x:            /assets/img/me/me.jpg
-      2x:            /assets/img/me/me.jpg
+      1x: /assets/img/me/me.jpg
+      2x: /assets/img/me/me.jpg
 
-  # Social media icons in sidebar
-  # Comment/uncommet to show/hide
-  # Rearrange to change the order in which they appear
   social:
-    #twitter:         <username>
     github:          yootaejeong
     email:           dbxowjd1396@gmail.com
-    # facebook:        <username>
-    # google:          <number>
-    # vk:              <username>
-    # youtube:         UCOV2C6wP0e4U3Vmr7vvTeVA
-    # vimeo:           <username>
-    # vine:            <username>
-    # spotify:         <user>/<number>
-    # soundcloud:      <username>
-    # lastfm:          <username>
     instagram:       tang2.28
     linkedin:        taejeong-yoo-0706602a6
 
