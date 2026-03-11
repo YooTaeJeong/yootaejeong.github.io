@@ -1,18 +1,11 @@
 ---
-layout: VolunteerWorks
-title: VolunteerWorks
-description: >
-    Various Project Make
-sitemap: false
-hide_last_modified: false
+layout: post
+title: 2024 Love Briquette Sharing Volunteer Activity
 categories:
-  - VolunteerWorks
+  - volunteerworks
 ---
 
 # [Volunteer Works] 2024 Love Briquette Sharing Volunteer Activity for Climate-Vulnerable Households
-
-* toc
-{:toc .large-only}
 
 ![screenshot](/assets/img/blog/2024_Briquette.png)
 ### English
