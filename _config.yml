@@ -59,7 +59,7 @@ menu:
   - title:             Certificates
     url:               /certificates/
   - title:             VolunteerWorks
-    url:               /VolunteerWorks/
+    url:               /volunteerworks/
 #    submenu:
 #      - title:        JavaScript
 #        url:          /js/
