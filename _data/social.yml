@@ -5,10 +5,6 @@ instagram:
   name: Instagram
   icon: icon-instagram
   prepend: 'https://instagram.com/'
-github:
-  name: GitHub
-  icon: icon-github
-  prepend: "https://github.com/yootaejeong"
 linkedin:
   name: LinkedIn
   icon: icon-linkedin2
