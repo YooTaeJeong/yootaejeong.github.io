@@ -14,7 +14,7 @@ hide_description: true
 - **Email:** dbxowjd1396@gmail.com  
 - **Blog:** [bong9s.tistory.com](https://bong9s.tistory.com){:target="_blank"}  
 - **Github:** [github.com/yootaejeong](https://github.com/yootaejeong){:target="_blank"}
-- **LinkedIn:** [linkedin.com/taejeong-yoo-0706602a6/]https://linkedin.com/taejeong-yoo-0706602a6/{:target="_blank"}
+- **LinkedIn:** [linkedin.com/taejeong-yoo-0706602a6](https://linkedin.com/taejeong-yoo-0706602a6)
 ## Education
 ---
 **Dongseo University**, Busan, South Korea  
