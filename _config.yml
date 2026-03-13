@@ -58,7 +58,7 @@ menu:
     url:               /projects/
   - title:             Certificates
     url:               /certificates/
-  - title:             VolunteerWorks
+  - title:             Volunteer Experience
     url:               /volunteerworks/
 #    submenu:
 #      - title:        JavaScript
