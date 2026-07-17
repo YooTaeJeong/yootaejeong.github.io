@@ -42,9 +42,13 @@ Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 
 ## Work Experience
 ---
+**Bear Robotics**, Seoul, Korea  
+*Technical Engineer Support (TES) - FTE*  
+Jun 2026 – Present
+
 **Morgan Stanley & Morgan Stanley Bank**, Seoul, Korea  
 *Workforce Technology Services (WTS) – Outsourced via Gounet*  
-Jun 2024 – Present
+Jun 2024 – Jun 2026
 
 **H-Mart Logistics**, California, USA  
 *IT Helpdesk Intern*  
