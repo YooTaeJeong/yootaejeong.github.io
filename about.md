@@ -42,7 +42,7 @@ Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 
 ## Work Experience
 ---
-**Bear Robotics**, Seoul, Korea  
+**🐻 Bear Robotics 🐻**, Seoul, Korea  
 *Technical Engineer Support (TES) - FTE*  
 Jun 2026 – Present
 
