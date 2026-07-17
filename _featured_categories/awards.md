@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: awards
 title: Projects
 slug: projects
 ---
