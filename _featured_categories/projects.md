@@ -1,5 +1,5 @@
 ---
 layout: list
-title: Certificates
+title: Projects
 slug: certificates
 ---

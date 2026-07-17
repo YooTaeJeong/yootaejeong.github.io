@@ -1,5 +1,5 @@
 ---
 layout: awards
-title: Projects
-slug: projects
+title: Awards
+slug: awards
 ---
