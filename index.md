@@ -8,11 +8,10 @@ hide_description: false
 
 # Taejeong Yoo
 
-IT Engineer based in Seoul, Korea.  
-Currently working in **Workforce Technology Systems (WTS)** supporting  
-**Morgan Stanley & Morgan Stanley Bank**.
+Robotics CS Engineer based in Seoul, Korea.
+Currently working in Customer Success Engineering at Bear Robotics.
 
-I focus on workplace technology, end-user computing, and IT infrastructure operations.
+I focus on deep-diving into service robot logs — navigation, perception, and localization — to identify the root cause behind field-reported issues and drive fixes that prevent recurrence.
 
 ---
 
