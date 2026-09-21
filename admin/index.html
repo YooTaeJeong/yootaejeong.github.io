@@ -6,21 +6,14 @@
   <title>Content Manager</title>
 </head>
 <body>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <script>
-    if (window.netlifyIdentity) {
-      window.netlifyIdentity.init({
-        APIUrl: "https://fascinating-dodol-2d6699.netlify.app/.netlify/identity",
-      });
-      window.netlifyIdentity.on("init", (user) => {
-        if (!user) {
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }
-  </script>
+  <!--
+    netlify-identity-widget 스크립트를 여기서 직접 로드/초기화하지 말 것.
+    Decap CMS의 git-gateway 백엔드는 자체적으로 config.yml의 identity_url/gateway_url을
+    읽어 GoTrue 클라이언트를 만드는데, 만약 window.netlifyIdentity가 이미 존재하면
+    그쪽을 우선 사용하면서 2.5초 뒤 인자 없이 강제로 재초기화(init())해버려서
+    APIUrl이 현재 페이지(github.io) 기준 기본값으로 리셋되는 버그가 있다.
+    (그 결과 https://<username>.github.io/.netlify/identity/settings 로 404 요청이 나감)
+  -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 </html>
