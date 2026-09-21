@@ -29,7 +29,7 @@ Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 
 ## Mentoring
 ---
-- **[LG Discovery Lab](https://statuesque-humerus-bb5.notion.site/Resume-149779122941458a91e71c7eebd38362){:target="_blank"}** — Coding Mentor (May 2022 – Dec 2022)  
+- **[LG Discovery Lab](/assets/docs/LG-discovery-lab-certificate.pdf){:target="_blank"}** — Coding Mentor (May 2022 – Dec 2022)  
 - **Baejeong High School** — Coding Mentor (Apr 2022 – Jul 2022)  
 - **Genius School** — Coding Mentor (May 2022 – Aug 2022)
 
@@ -50,7 +50,7 @@ Jun 2026 – Present
 *Workforce Technology Services (WTS) – Outsourced via Gounet*  
 Jun 2024 – Jun 2026
 
-**H-Mart Logistics**, California, USA  
+**[H-Mart Logistics](/assets/docs/hmart-employment-certificate.pdf){:target="_blank"}**, California, USA  
 *IT Helpdesk Intern*  
 Jan 2023 – Jan 2024
 
