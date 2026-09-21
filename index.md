@@ -2,14 +2,14 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-  IT Engineer specializing in Workplace Technology & IT Infrastructure.
+  Technical Support Engineer at Bear Robotics, focused on service robot infrastructure and field issue resolution.
 hide_description: false
 ---
 
 # Taejeong Yoo
 
 Robotics CS Engineer based in Seoul, Korea.
-Currently working in Customer Success Engineering at Bear Robotics.
+Currently working as a Technical Support Engineer at Bear Robotics.
 
 I focus on deep-diving into service robot logs — navigation, perception, and localization — to identify the root cause behind field-reported issues and drive fixes that prevent recurrence.
 

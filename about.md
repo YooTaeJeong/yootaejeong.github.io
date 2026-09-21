@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me/me.jpg
 description: >
-  IT Engineer specializing in Workplace Technology and Infrastructure.
+  Technical Support Engineer at Bear Robotics, focused on service robot infrastructure and field issue resolution.
 hide_description: true
 ---
 
