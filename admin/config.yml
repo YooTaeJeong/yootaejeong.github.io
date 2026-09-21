@@ -12,6 +12,9 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
+    nested:
+      depth: 100
+      subfolders: false
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
