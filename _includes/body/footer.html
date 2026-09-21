@@ -5,8 +5,8 @@
     <p><small class="copyright">{{ site.copyright | markdownify | replace:'<p>','' | replace:'</p>','' }}</small></p>
     {% endif %}
 
-    <p><small>Last Updated 2026.07.17</p>
-    <p><small>----------Taejeong's PortFolio----------</p>
+    <p><small>Last Updated {{ site.time | date: "%Y.%m.%d" }}</small></p>
+    <p><small>----------Taejeong's PortFolio----------</small></p>
     <p><span id="_version"></span></small></p>
     <hr class="sr-only" />
 </footer>
