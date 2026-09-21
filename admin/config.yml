@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: yootaejeong/yootaejeong.github.io
+  name: git-gateway
   branch: master
-  base_url: https://REPLACE-WITH-YOUR-NETLIFY-SITE.netlify.app
-  auth_endpoint: auth
 
 media_folder: assets/img/blog
 public_folder: /assets/img/blog
