@@ -29,7 +29,7 @@ Machine Learning, Neural Networks, Pattern Recognition, AI System Design
 
 ## Mentoring
 ---
-- **LG Discovery Lab** — Coding Mentor (May 2022 – Dec 2022)  
+- **[LG Discovery Lab](https://statuesque-humerus-bb5.notion.site/Resume-149779122941458a91e71c7eebd38362){:target="_blank"}** — Coding Mentor (May 2022 – Dec 2022)  
 - **Baejeong High School** — Coding Mentor (Apr 2022 – Jul 2022)  
 - **Genius School** — Coding Mentor (May 2022 – Aug 2022)
 

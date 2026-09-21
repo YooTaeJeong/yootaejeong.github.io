@@ -4,6 +4,8 @@ backend:
   identity_url: https://fascinating-dodol-2d6699.netlify.app/.netlify/identity
   gateway_url: https://fascinating-dodol-2d6699.netlify.app/.netlify/git
 
+locale: "ko"
+
 media_folder: assets/img/blog
 public_folder: /assets/img/blog
 
