@@ -19,3 +19,117 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/slick/slick-theme.css"/>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script type="text/javascript" src="/assets/css/slick/slick.min.js"></script>
+
+<!--
+  커스텀 인트로 애니메이션 + 스크롤 리빌 + 배경/네비 폴리시.
+  Hydejack 테마가 <head> 끝에 이 파일을 include 하는데, 아래 <div>는
+  head 안에 있어도 브라우저가 자동으로 body 맨 앞으로 끌어올려주기
+  때문에(HTML 파서 표준 동작), 다른 콘텐츠보다 항상 먼저 그려진다.
+-->
+<div id="__intro-loader" aria-hidden="true">
+  <div class="__intro-mark">TT</div>
+  <div class="__intro-bar"><span></span></div>
+</div>
+
+<style>
+  /* ---------- 인트로 로딩 애니메이션 ---------- */
+  #__intro-loader {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.1rem;
+    background: #0a1620;
+    color: #fff;
+    /* JS가 없어도 순수 CSS 애니메이션으로 항상 자동 종료됨 */
+    animation: __introOut .7s ease forwards 1.3s;
+  }
+  #__intro-loader.__done {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+  .__intro-mark {
+    font-family: var(--font-family-heading, 'Roboto Slab', Helvetica, Arial, sans-serif);
+    font-size: 2.2rem;
+    font-weight: 700;
+    letter-spacing: .2em;
+    opacity: 0;
+    transform: translateY(10px);
+    animation: __introIn .6s ease forwards .1s;
+  }
+  .__intro-bar {
+    width: 7rem;
+    height: 2px;
+    background: rgba(255, 255, 255, .15);
+    overflow: hidden;
+    border-radius: 2px;
+  }
+  .__intro-bar span {
+    display: block;
+    height: 100%;
+    width: 40%;
+    background: var(--accent-color, #4fb1ba);
+    animation: __introBar 1s ease-in-out infinite;
+  }
+  @keyframes __introIn {
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes __introBar {
+    0%   { transform: translateX(-120%); }
+    100% { transform: translateX(280%); }
+  }
+  @keyframes __introOut {
+    to { opacity: 0; visibility: hidden; pointer-events: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    #__intro-loader { display: none; }
+  }
+
+  /* ---------- 스크롤 리빌 (JS가 있을 때만 동작, 없으면 항상 그냥 보임) ---------- */
+  .__reveal-ready .__reveal {
+    opacity: 0;
+    transform: translateY(18px);
+    transition: opacity .6s ease, transform .6s ease;
+    transition-delay: var(--reveal-delay, 0s);
+  }
+  .__reveal-ready .__reveal.__in {
+    opacity: 1;
+    transform: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .__reveal-ready .__reveal { opacity: 1; transform: none; transition: none; }
+  }
+
+  /* ---------- 사이드바 배경 은은한 팬 애니메이션 ---------- */
+  .sidebar-bg {
+    background-size: 115% auto !important;
+    animation: __bgPan 50s ease-in-out infinite alternate;
+  }
+  @keyframes __bgPan {
+    0%   { background-position: 50% 0%; }
+    100% { background-position: 50% 100%; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .sidebar-bg { animation: none; }
+  }
+
+  /* ---------- 네비/링크 호버 부드럽게 ---------- */
+  .sidebar-nav-item,
+  .top-menu.nav-btn,
+  .nav-btn {
+    transition: color .25s ease, background-color .25s ease, opacity .25s ease;
+  }
+  .content a:not(.btn):not(.no-hover) {
+    transition: color .2s ease, border-color .2s ease;
+  }
+  .sidebar-title h2 {
+    transition: letter-spacing .3s ease;
+  }
+  .sidebar-title:hover h2 {
+    letter-spacing: .02em;
+  }
+</style>
